@@ -20,6 +20,7 @@ public class Assendingorderarray_2 {
         		  temp=ar[i];
         		  ar[i]=ar[min];
         		  ar[min]=temp;
+			   System.out.println("github");
         		  System.out.println(ar[i]);
         	  }
          
